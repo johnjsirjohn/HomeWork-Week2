@@ -18,7 +18,7 @@ function promiseMeAString(promiseSolution) {
 		reject('You have failed me!');
 	});
 }
-promiseMeAString();
+//promiseMeAString();
 
 module.exports.getTatooineResidents = getTatooineResidents;
 
